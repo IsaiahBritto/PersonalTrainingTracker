@@ -1,0 +1,95 @@
+5
+1
+2
+Allen Espejo
+Isaiah Britto
+    Session Records:
+					 7/28/2018	8:49 PM    1 Session used
+					 7/28/2018	9:40 PM    1 Session used
+	Adding Sessions Record:
+							Isaiah Britto added 5 on  7/28/2018 at  8:48 PM
+0
+0
+0
+8
+Allen Espejo
+01/02/1995
+01/02/1995
+22
+1
+5
+2
+4
+Joe Shmow
+NoTrainer
+	Session Records:
+					 8/30/2018	12:27 AM    1 Session used
+					 8/31/2018	11:30 AM    1 Session used
+					 8/31/2018	11:49 AM    1 Session used
+					 8/31/2018	11:50 AM    1 Session used
+	Adding Sessions Record:
+							Isaiah Britto added 3 on  8/30/2018 at 	12:26 AM
+							Isaiah Britto added 10 on  8/31/2018 at 	11:49 AM
+0
+0
+0
+13
+Joe Shmow
+dob
+dob
+28
+1
+4
+0
+0
+Roger Smith
+NoTrainer
+	Session Records:
+	Adding Sessions Record:
+0
+0
+0
+0
+Roger Smith
+dob
+dob
+22
+1
+0
+1
+4
+Harry Potter
+John Paul
+	Session Records:
+					 8/12/2018	9:12 PM    1 Session used
+					 8/12/2018	9:15 PM    1 Session used
+					 8/12/2018	9:16 PM    1 Session used
+					 8/12/2018	9:16 PM    1 Session used
+	Adding Sessions Record:
+							Isaiah Britto added 10 on  8/12/2018 at  9:12 PM
+0
+0
+0
+10
+Harry Potter
+dob
+dob
+24
+1
+4
+0
+0
+Joel Smith
+John Paul
+	Session Records:
+	Adding Sessions Record:
+0
+0
+0
+0
+Joel Smith
+dob
+dob
+22
+1
+0
